@@ -1,16 +1,25 @@
-## Hi there 👋
+<p align=center>
+<img src="https://github.com/captvernadead/captvernadead/blob/c1fafef28a73f1863c15d1b5497957429eafaebe/throwing%20knives.webp" width=400 height=650>
+<p align=center>
+  <img src="https://github.com/captvernadead/captvernadead/blob/349a3a022b5bb6b78afbbae39163ce2e3268de4a/bullet%20hole%20divider.gif">
+<p align=center>
+${\color{#63160A} eddie \space or \space matthew \space ♱ \space he \space she \space neos {}}$
 
-<!--
-**420biteme/420biteme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+<div align = "center">
+  
+  ![](https://komarev.com/ghpvc/?username=captvernadead&style=plastic&color=302E29&label=+++wild+geese+++)
+  </div>
 
-Here are some ideas to get you started:
+<p align = center>
+<img src="https://github.com/captvernadead/captvernadead/blob/11c6714362e1c8b11b23a52f2dc874a650eb5fe7/pip%20stamp%201.webp"> <img src="https://github.com/captvernadead/captvernadead/blob/3d29f4e9991202a174e7ccfcd462512320bb9820/pip%20stamp%202.webp"> <img src="https://github.com/captvernadead/captvernadead/blob/3884abc7f40ac8951b77f52bb9e2ed93ed48929b/pip%20stamp%203.webp">
+<p align=center
+  
+<p align=center>
+<img src="https://github.com/captvernadead/captvernadead/blob/7dd73d7821d66f418d3396b7c5005124459d5167/bullet%20blinkie.webp">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=bgjt4lpjj75seup5dnsdohowk&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false">
+  </a>
+</p>
