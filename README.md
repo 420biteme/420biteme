@@ -11,8 +11,6 @@ ${\color{#63160A} eddie \space or \space matthew \space ♱ \space he \space she
   ![](https://komarev.com/ghpvc/?username=captvernadead&style=plastic&color=302E29&label=+++lost+sheep+++)
   </div>
   
-<p align=center>
-<img src="https://github.com/420biteme/420biteme/blob/a7cfd437d3d74f3b28c15060af73e76211042980/i%20bite.webp">
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
