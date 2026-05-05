@@ -1,5 +1,5 @@
 <p align=center>
-<img src="https://github.com/420biteme/420biteme/blob/aa9e984adc2cafdac4268c6ac37700e861667df4/welcom.webp" width=400 height=650>
+<img src="https://github.com/420biteme/420biteme/blob/d90b0ca630b667094b05fba4ef3a64d239023467/konig%20yay.gif" width=400 height=650>
 <p align=center>
   <img src="https://github.com/420biteme/420biteme/blob/25826fcfb475facb2a68c2789ee7305c3d863926/corroded%20coffin%20divider.jpg" width=400 height=650>
 <p align=center>
