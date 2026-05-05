@@ -8,7 +8,7 @@ ${\color{#63160A} eddie \space or \space matthew \space ♱ \space he \space she
   
 <div align = "center">
   
-  ![](https://komarev.com/ghpvc/?username=captvernadead&style=plastic&color=302E29&label=+++lost+sheep+++)
+  ![](https://komarev.com/ghpvc/?username=captvernadead&style=plastic&color=302E29&label=+++bullets+++)
   </div>
   
 
