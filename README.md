@@ -1,14 +1,14 @@
 <p align=center>
-<img src="https://github.com/420biteme/420biteme/blob/d90b0ca630b667094b05fba4ef3a64d239023467/konig%20yay.gif" width=400 height=650>
+<img src="https://github.com/420biteme/420biteme/blob/44bbb131759bb45f1d154d5ed163e1ea0ce3dac3/2.jpg" width=400 height=650>
 <p align=center>
   <img src="https://github.com/420biteme/420biteme/blob/8cf6da4089aa9ecd4bfc21449d6fc3d91fb54430/gun.png" width=400 height=650>
 <p align=center>
-${\color{#63160A} eddie \space or \space matthew \space ♱ \space he \space she \space neos {}}$
+  <p align ="center"> $\color{#a1a1a1}{\textsf{ac : unmovedstill on tumblr}}$ </p>
 
   
 <div align = "center">
   
-  ![](https://komarev.com/ghpvc/?username=captvernadead&style=plastic&color=302E29&label=+++bullets+++)
+  ![](https://komarev.com/ghpvc/?username=captvernadead&style=plastic&color=302E29&label=+++woof+++)
   </div>
   
 
