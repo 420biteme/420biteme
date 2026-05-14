@@ -1,7 +1,7 @@
 <p align=center>
 <img src="https://github.com/420biteme/420biteme/blob/44bbb131759bb45f1d154d5ed163e1ea0ce3dac3/2.jpg" width=400 height=650>
 <p align=center>
-  <img src="https://github.com/420biteme/420biteme/blob/8cf6da4089aa9ecd4bfc21449d6fc3d91fb54430/gun.png" width=400 height=650>
+  <img src="https://github.com/420biteme/420biteme/blob/89245006bd4db46ec23b8588a1f3034897152ee7/paws.png" width=400 height=650>
 <p align=center>
   <p align ="center"> $\color{#a1a1a1}{\textsf{ac : unmovedstill on tumblr}}$ </p>
 
