@@ -3,7 +3,7 @@
 <p align=center>
   <img src="https://github.com/420biteme/420biteme/blob/89245006bd4db46ec23b8588a1f3034897152ee7/paws.png" width=400 height=650>
 <p align=center>
-<i> <p style="color:#C4C4C4;" align="center"> ac : unmovedstill on tumblr </p> </i>
+  <p align ="center"> $\color{#a1a1a1}{\textsf{ac : unmovedstill on tumblr}}$ </p>
   
 <div align = "center">
   
